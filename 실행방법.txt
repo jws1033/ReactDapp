@@ -1,0 +1,10 @@
+2개를 만든다
+하나는 package.json 파일 열어 port 다른걸로
+yarn, nodejs 설치
+(https://classic.yarnpkg.com/en/docs/install#windows-stable)
+
+yarn install 시행 후 노드모듈설치
+
+yarn start로 웹서버 수행
+
+ 
